@@ -810,8 +810,6 @@ int main()
 {
 
 	Login();
-	
-	//stClient Cleint;
 
 	return 0;
 }
