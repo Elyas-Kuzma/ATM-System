@@ -1,4 +1,3 @@
-#pragma warning(disable : 4996)
 
 #include <iostream>
 #include <vector>
@@ -6,12 +5,11 @@
 #include <string>
 #include <limits>
 #include <fstream>
-#include "D:/Mainc++/Mainc++/MyLib.h"
+
 
 using namespace std;
 
 const string ClientsFileName = "Clients.txt";
-const string ClientsLastLoginFile = "Time.txt";
 
 enum enATMSystimOptions
 {
